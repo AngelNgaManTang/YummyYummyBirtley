@@ -1,0 +1,64 @@
+*,
+
+*::before,
+
+*::after{
+    box-sizing: border-box;
+}
+
+:root {
+    --ff-primary: 'Source Sans Pro', sans-serif;
+    --ff-secondary: 'Source Code Pro', monospace;
+
+    --fw-reg: 300;
+    --fw-bold: 900;
+
+    --clr-light: #fff;
+    --clr-dark: #303030;
+    --clr-accent: #FAD900;
+    --clr-nav: #8E1600;
+
+    --fs-h1: 3.5rem;
+    --fs-h2: 3.25rem;
+    --fs-h3: 2.5rem;
+    --fs-h4: 2.25rem;
+    --fs-h5: 1.5rem;
+    --fs-body: 1.25rem;
+
+    --bs: 0.25em 0.25em 0.75em rgba(0,0,0,.25),
+          0.125em 0.125em 0.25em rgba(0,0,0,.15);
+
+}
+strong{
+    font-weight: var(--fw-bold);
+    
+}
+
+.nav_list{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background:var(--clr-nav) ;
+    width: 100%;
+}
+
+.nav_item{
+    float: left;
+}
+
+.nav_item .nav_link{
+    display: block;
+    color: var(--clr-accent);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.nav_item .nav_link:hover{
+    background: var(--clr-dark);
+}
+
+.into{
+    top: 20px; 
+}
