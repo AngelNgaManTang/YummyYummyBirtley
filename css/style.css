@@ -9,44 +9,43 @@ center .btn-primary{background-color:transparent;border:none;color:black;font-si
 .meals .col-md-3{height:220px; overflow:hidden;font-family:'Josefin Slab',serif;font-size:2em;font-weight:700;text-align: center;padding-top:80px;position: relative;color:#fff;font-style:italic;}
 .meals .col-md-3 a{display:block; width:100%; position: absolute;top:0;left:0;height:50%; padding-top:30px; color:#434549;font-style: normal;}
 .meals a:last-child{top:25%;color:#fff;}
-.meals .col-md-3{background-image: url(../assets/foodtop/breakfast.jpg);background-size: cover;}
-.meals .col-md-3:nth-child(2){background-image: url(../assets/foodtop/lunch.jpg);}
-.meals .col-md-3:nth-child(3){background-image: url(../assets/foodtop/lunch.jpg);}
-.meals .col-md-3:nth-child(4){background-image: url(../assets/foodtop/dinner.jpg);}
-.meals .col-md-3:nth-child(5){background-image: url(../assets/foodtop/breakfast.jpg);}
-.meals .col-md-3:nth-child(6){background-image: url(../assets/foodtop/dinner.jpg);}
-.meals .col-md-3:nth-child(7){background-image: url(../assets/foodtop/lunch.jpg);}
-.meals .col-md-3:nth-child(8){background-image: url(../assets/foodtop/breakfast.jpg);}
-.meals .col-md-3:nth-child(9){background-image: url(../assets/foodtop/lunch.jpg);}
-.meals .col-md-3:nth-child(10){background-image: url(../assets/foodtop/dinner.jpg);}
-.meals .col-md-3:nth-child(11){background-image: url(../assets/foodtop/breakfast.jpg);}
-.meals .col-md-3:nth-child(12){background-image: url(../assets/foodtop/dinner.jpg);}
-.meals .col-md-3:nth-child(13){background-image: url(../assets/foodtop/lunch.jpg);}
-.meals .col-md-3:nth-child(14){background-image: url(../assets/foodtop/breakfast.jpg);}
-.meals .col-md-3:nth-child(15){background-image: url(../assets/foodtop/lunch.jpg);}
-.meals .col-md-3:nth-child(16){background-image: url(../assets/foodtop/dinner.jpg);}
-.meals .col-md-3:nth-child(17){background-image: url(../assets/foodtop/breakfast.jpg);}
-.meals .col-md-3:nth-child(18){background-image: url(../assets/foodtop/dinner.jpg);}
-.meals .col-md-3:nth-child(19){background-image: url(../assets/foodtop/lunch.jpg);}
-.meals .col-md-3:nth-child(20){background-image: url(../assets/foodtop/breakfast.jpg);}
-.meals .col-md-3:nth-child(21){background-image: url(../assets/foodtop/dinner.jpg);}
-.meals .col-md-3:nth-child(22){background-image: url(../assets/foodtop/lunch.jpg);}
-.meals .col-md-3:nth-child(23){background-image: url(../assets/foodtop/breakfast.jpg);}
-.meals .col-md-3:nth-child(24){background-image: url(../assets/foodtop/lunch.jpg);}
-.meals .col-md-3:nth-child(25){background-image: url(../assets/foodtop/dinner.jpg);}
-.meals .col-md-3:nth-child(26){background-image: url(../assets/foodtop/breakfast.jpg);}
-.meals .col-md-3:nth-child(27){background-image: url(../assets/foodtop/dinner.jpg);}
-.meals .col-md-3:nth-child(28){background-image: url(../assets/foodtop/lunch.jpg);}
-.meals .col-md-3:nth-child(29){background-image: url(../assets/foodtop/breakfast.jpg);}
-.meals .col-md-3:nth-child(30){background-image: url(../assets/foodtop/lunch.jpg);}
-.meals .col-md-3:nth-child(31){background-image: url(../assets/foodtop/dinner.jpg);}
-.meals .col-md-3:nth-child(32){background-image: url(../assets/foodtop/breakfast.jpg);}
-.meals .col-md-3:nth-child(33){background-image: url(../assets/foodtop/dinner.jpg);}
-.meals .col-md-3:nth-child(34){background-image: url(../assets/foodtop/lunch.jpg);}
-.meals .col-md-3:nth-child(35){background-image: url(../assets/foodtop/breakfast.jpg);}
-.meals .col-md-3:nth-child(36){background-image: url(../assets/foodtop/dinner.jpg);}
-.meals .col-md-3:nth-child(37){background-image: url(../assets/foodtop/lunch.jpg);}
-.meals .col-md-3:nth-child(38){background-image: url(../assets/foodtop/breakfast.jpg);}
+.meals .col-md-3{background-image: url(../assets/breakfast.jpg);background-size: cover;}
+.meals .col-md-3:nth-child(2){background-image: url(../assets/lunch.jpg);}
+.meals .col-md-3:nth-child(3){background-image: url(../assets/lunch.jpg);}
+.meals .col-md-3:nth-child(4){background-image: url(../assets/dinner.jpg);}
+.meals .col-md-3:nth-child(5){background-image: url(../assets/breakfast.jpg);}
+.meals .col-md-3:nth-child(6){background-image: url(../assets/dinner.jpg);}
+.meals .col-md-3:nth-child(7){background-image: url(../assets/lunch.jpg);}
+.meals .col-md-3:nth-child(8){background-image: url(../assets/breakfast.jpg);}
+.meals .col-md-3:nth-child(9){background-image: url(../assets/lunch.jpg);}
+.meals .col-md-3:nth-child(10){background-image: url(../assets/dinner.jpg);}
+.meals .col-md-3:nth-child(11){background-image: url(../assets/breakfast.jpg);}
+.meals .col-md-3:nth-child(12){background-image: url(../assets/dinner.jpg);}
+.meals .col-md-3:nth-child(13){background-image: url(../assets/lunch.jpg);}
+.meals .col-md-3:nth-child(14){background-image: url(../assets/breakfast.jpg);}
+.meals .col-md-3:nth-child(15){background-image: url(../assets/lunch.jpg);}
+.meals .col-md-3:nth-child(16){background-image: url(../assets/dinner.jpg);}
+.meals .col-md-3:nth-child(17){background-image: url(../assets/breakfast.jpg);}
+.meals .col-md-3:nth-child(18){background-image: url(../assets/dinner.jpg);}
+.meals .col-md-3:nth-child(19){background-image: url(../assets/lunch.jpg);}
+.meals .col-md-3:nth-child(20){background-image: url(../assets/breakfast.jpg);}
+.meals .col-md-3:nth-child(21){background-image: url(../assets/dinner.jpg);}
+.meals .col-md-3:nth-child(22){background-image: url(../assets/lunch.jpg);}
+.meals .col-md-3:nth-child(23){background-image: url(../assets/breakfast.jpg);}
+.meals .col-md-3:nth-child(24){background-image: url(../assets/lunch.jpg);}
+.meals .col-md-3:nth-child(25){background-image: url(../assets/dinner.jpg);}
+meals .col-md-3:nth-child(27){background-image: url(../assets/dinner.jpg);}
+.meals .col-md-3:nth-child(28){background-image: url(../assets/lunch.jpg);}
+.meals .col-md-3:nth-child(29){background-image: url(../assets/breakfast.jpg);}
+.meals .col-md-3:nth-child(30){background-image: url(../assets/lunch.jpg);}
+.meals .col-md-3:nth-child(31){background-image: url(../assets/dinner.jpg);}
+.meals .col-md-3:nth-child(32){background-image: url(../assets/breakfast.jpg);}
+.meals .col-md-3:nth-child(33){background-image: url(../assets/dinner.jpg);}
+.meals .col-md-3:nth-child(34){background-image: url(../assets/lunch.jpg);}
+.meals .col-md-3:nth-child(35){background-image: url(../assets/breakfast.jpg);}
+.meals .col-md-3:nth-child(36){background-image: url(../assets/dinner.jpg);}
+.meals .col-md-3:nth-child(37){background-image: url(../assets/lunch.jpg);}
+.meals .col-md-3:nth-child(38){background-image: url(../assets/breakfast.jpg);}
 
 .container{padding-top:100px;position: relative; overflow: hidden;}
 .imgbox{padding:20px;border-radius: 2px;box-shadow:0 0px 10px rgba(0,0,0,.3);}
