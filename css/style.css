@@ -320,11 +320,6 @@ header{
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
 
-.menu_starter {
-    background: var(--clr-accent);
-    overflow: hidden;
-}
-
 .portfolio_img {
     transition: 
         transform 750ms cubic-bezier(.5, 0, .5, 1),
@@ -341,6 +336,27 @@ header{
     opacity: .75
 }
 
+/* Location */
+.map
+{
+    position:relative;
+    text-align:right;
+    height:500px;
+    width:600px;
+}
+.map_canvas {
+    overflow:hidden;
+    background:none!important;
+    height:300px;
+    width:400px;
+}
+
+@media (min-width: 650px){
+    .map_canvas {
+        height:500px;
+        width:600px;
+    }
+}
 
 /* Footer */
 .footer{
