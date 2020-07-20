@@ -358,12 +358,51 @@ header{
     }
 }
 
+/*Menu*/
+.title_menu{
+    text-align: center;
+    padding:3em 0em;
+    background-color: var(--clr-titleBckground);
+    color:var(--clr-accent)
+}
+.extra_title, .starter_title, .soup_title {
+    text-align: center;
+    padding:2em 0em;
+}
+
+.main_title, .setMeal_title{
+    text-align: center;
+    padding:1.5em 0em;
+}
+
+.extra_table, .starter_table, .soup_table, .main_table{
+    position: relative;
+    text-align: left;
+    margin: 0 auto;
+    padding: 2em 0em;
+}
+.setMeal_table{
+    position: relative;
+    text-align: center;
+    margin: 0 auto;
+    padding: 2em 0em;
+}
+.setMeal_table strong{
+    color: var(--clr-titleBckground);
+}
+
+.price{
+    
+    padding-left: 3em;
+    
+}
+
 /* Footer */
 .footer{
     background: #800020;
     color: var(--clr-accent);
     text-align: center;
-    padding: 1.5em 0;
+    padding: 2em 0;
     font-size: var(--fs-h5);
 }
 
