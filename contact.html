@@ -14,23 +14,65 @@
 
     </head>
     <body>
-    <header>
-        <div class="logo">
-            <img src="img/logoYY.png" alt="Yummy Yummy logo">
-        </div>
+        <header>
+            <div class="logo">
+                <img src="img/logoYY.png" alt="Yummy Yummy logo">
+            </div>
+        
+            <button class="nav_toggle" aria-label="toggle navigation">
+                <span class="hamburger"></span>
+            </button>
+            <nav class="nav">
+                <ul class="nav_list">
+                    <li class="nav_item"><a href="index.html" class="nav_link"> Home</a></li>
+                    <li class="nav_item"><a href="menu.html" class="nav_link">Our Menu</a></li>
+                    <li class="nav_item"><a href="contact.html" class="nav_link"> Contact Us</a></li>
+                </ul>
+            </nav>
+        </header>
 
-        <button class="nav_toggle" aria-label="toggle navigation">
-            <span class="hamburger"></span>
-        </button>
-        <nav class="nav">
-            <ul class="nav_list">
-                <li class="nav_item"><a href="index.html" class="nav_link"> Home</a></li>
-                <li class="nav_item"><a href="menu.html" class="nav_link"> Menu</a></li>
-                <li class="nav_item"><a href="location.html" class="nav_link">Where are we</a></li>
-                <li class="nav_item"><a href="contact.html" class="nav_link"> Contact Us</a></li>
-            </ul>
-        </nav>
-    </header>
+        <a class="button"></a>
+
+        <section class="contact_us">
+            <h2 class="section_title_contactUs">Contact Us</h2>
+            <p>Delivery Services Available</p>
+            <a href="tel:01914100409"class="contact_page" >Call us: 0191 410 0409</a>
+            <p class="social_list_item">Follow us <a class="social_list_link" 
+                href="https://www.facebook.com/Yummy-Yummy-Chinese-Takeaway-Birtley-107561294374698"><i class="fab fa-facebook"></i></a></p>
+
+        </section>
+        <section class="location">
+            <h4 class="address_title">Address:</h4>
+            <div class="address">
+                <address>
+                    3 Harraton Terrace<br>
+                    Birtley,<br>
+                    Chester Le Street<br>
+                    DH3 2QG
+                 </address>
+            </div>
+
+            <div class="map">
+                <div class="map_canvas">
+                    <iframe width="600" height="500" id="map_canvas" 
+                    src="https://maps.google.com/maps?q=Yummy%20Yummy%20Chinese%20Birtley&t=&z=13&ie=UTF8&iwloc=&output=embed" 
+                    frameborder="0" scrolling="no" marginheight="0" marginwidth="0">
+                </iframe>
+                <a href="https://www.whatismyip-address.com/nordvpn-coupon/">nordvpn coupon</a>
+                </div>
+                <style>
+                    
+                </style>
+            </div>
+        </section>
+
+
+    <footer class="footer">
+        <h3>Yummy Yummy Chinese Takaway</h5>
+        <p>Addess: 3 Harraton Terrace, Birtley, Chester Le Street, DH3 2QG</p>
+        <a href="tel:01914100409"class="contact_footer" >Contact Number: 0191 410 0409</a>
+        <p class="copyright">© 2018 by Yummy Yummy Chinese</p>
+      </footer>
     <script src="js/index.js"></script>
     </body>
 </html>
