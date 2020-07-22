@@ -72,7 +72,7 @@ img {
 
 strong{
     font-weight: var(--fw-bold);
-    color: var(--clr-accent);
+    color: var(--clr-text);
 }
 
 :focus{
