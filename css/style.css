@@ -294,7 +294,15 @@ header{
     font-size: var(--fs-h4);
     font-family: var(--ff-primary);
 }
-
+.section_customer_notice{
+    text-align: center;
+}
+.section_customer_notice_title{
+    color: var( --clr-titleBckground);
+}
+.section_customer_notice_info{
+    font-size: var(--fs-h4);
+}
 
 /* Menu */
 
