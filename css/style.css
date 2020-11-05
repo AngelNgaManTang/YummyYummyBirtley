@@ -337,7 +337,7 @@ header{
     text-align: center;
     padding:2em 0em;
     background-color: var(--clr-titleBckground);
-    color:var(--clr-accent)
+    color:var(--clr-accent);
 }
 
 .extra_title, .starter_title, .soup_title {
