@@ -388,19 +388,25 @@ header{
 .contact_page{
     font-size: var(--fs-h4);
 }
-/* Location */
-.map
-{
+.location{
+    text-align: center;
+    position:relative;
+}
+.map{
+    margin: 2em 0;
     position:relative;
     text-align:right;
     height:500px;
     width:600px;
+    margin: auto;
+    justify-content: center;
 }
 .map_canvas {
     overflow:hidden;
     background:none!important;
     height:300px;
     width:400px;
+    
 }
 
 @media (min-width: 650px){
