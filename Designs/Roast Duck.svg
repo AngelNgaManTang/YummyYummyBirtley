@@ -1,0 +1,254 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="4437" viewBox="0 0 1920 4437">
+  <defs>
+    <image id="d3c0b797-b91e-4d84-92e7-d96cbe5b8f43" width="450" height="72" x="0" y="0" xlink:href="data:image/png;base64,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"/>
+    <pattern id="pattern-5" width="1" height="1.004" x="0" y="-.004" patternUnits="objectBoundingBox">
+      <use transform="scale(.47555556)" xlink:href="#d3c0b797-b91e-4d84-92e7-d96cbe5b8f43"/>
+    </pattern>
+  </defs>
+  <rect width="1920" height="4436" x="-2" y="0" fill="rgb(255,253,208)"/>
+  <g>
+    <rect width="1924" height="441" x="-4" y="3996" fill="rgb(128,0,32)"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="653.443" y="4074" fill="rgb(255,203,92)" font-family="Source Sans Pro" font-size="37" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing="2.3">Yummy Yummy Chinese Takeaway</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="649.298" y="4133" fill="rgb(255,203,92)" font-family="Source Sans Pro Light" font-size="24" font-weight="300" style="white-space:pre;text-transform:none" letter-spacing=".2">Address: 3 Harraton Terrace, Birtley, Chester Le Street, DH3 2QG</tspan> <tspan x="644.348" y="4110" fill="rgb(255,203,92)" font-family="Source Sans Pro Light" font-size="24" font-weight="300" style="white-space:pre;text-transform:none" letter-spacing="-.1"/>
+
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="793.324" y="4196" fill="rgb(255,203,92)" font-family="Source Sans Pro" font-size="24" font-weight="400" style="white-space:pre;text-transform:none">Contact Number: 0191 410 0409</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="811.102" y="4250" fill="rgb(255,203,92)" font-family="Source Sans Pro" font-size="20" font-weight="400" style="white-space:pre;text-transform:none">© 2018 by Yummy Yummy Chinese</tspan>
+    </text>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="754.165" y="4311" fill="rgb(255,203,92)" font-family="Source Sans Pro" font-size="24" font-weight="400" style="white-space:pre;text-transform:none">Website created by: Angel Nga Man Tang</tspan>
+    </text>
+  </g>
+  <rect width="1924" height="299" x="-6" y="76" fill="rgb(128,0,32)"/>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="884" y="246" fill="rgb(255,203,92)" font-family="Source Sans Pro" font-size="65" font-weight="700" style="white-space:pre;text-transform:none" text-decoration="underline">Menu</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="31" y="3833" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="400" style="white-space:pre;text-transform:none" letter-spacing="-.2">Char Siu = Roast Pork</tspan> <tspan x="31" y="3885.5" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="400" style="white-space:pre;text-transform:none" letter-spacing="-.2">All allergies of ingredients please do not hesitate to consult our staff</tspan> <tspan x="31" y="3938" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="400" style="white-space:pre;text-transform:none" letter-spacing="-.2">Meals which are not listed may be supplied if possible on request</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="845" y="1302" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="43" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing="-.5">Chef Special</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="855.5" y="451" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="43" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing="-.5">Roast Duck</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="659.5" y="1784" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="43" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing="-.8">Spicy Chilli & Garlic Sauce Dishes</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="746" y="1704" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="43" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing="-.8">Szechuan Sauce Dishes</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="733" y="1624" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="43" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing="-.8">Black Bean Sauce Dishes</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="780" y="1543" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="43" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing="-.5">Satay Sauce Dishes</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="735" y="1382" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="43" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing="-.4">Thai Green Curry Dishes</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="754.5" y="1464" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="43" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing="-.5">Thai Red Curry Dishes</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="727.5" y="1865" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="43" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing="-.5">Hot & Spicy Sauce Dishes</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="736" y="1945" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="43" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing="-.5">Hot & Sour Sauce Dishes</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="816.5" y="2432" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="43" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing="-.8">Kung Bo Dishes</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="713" y="2352" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="43" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing="-.8">Black Pepper Sauce Dishes</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="774.5" y="2270" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="43" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing="-.8">Oyster Sauce Dishes</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="627" y="2189" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="43" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing="-.5">Ginger & Spring Onion Sauce Dishes</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="737" y="2028" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="43" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing="-.8">Cantonese Sauce Dishes</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="769" y="2108" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="43" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing="-.5">Peking Sauce Dishes</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="782.5" y="2595" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="43" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing="-.5">Beanspouts Dishes</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="717" y="2514" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="43" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing="-.8">Cashew Nuts Sauce Dishes</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="828" y="3074" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="43" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing="-.8">Onions Dishes</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="657" y="2994" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="43" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing="-.8">Pineapple & Sweet Ginger Dishes</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="799.5" y="2914" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="43" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing="-.8">Pineapple Dishes</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="800.5" y="2838" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="43" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing="-.5">Tomatoes Dishes</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="578" y="2676" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="43" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing="-.8">Bamboo Shoots & Water Chestnuts Dishes</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="794" y="2756" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="43" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing="-.8">Sweetcorn Dishes</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="838.5" y="3155" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="43" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing="-.8">Curry Dishes</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="794" y="3235" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="43" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing="-.8">Mushroom Dishes</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="803" y="3722" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="43" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing="-.8">Fried Rice Dishes</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="820" y="3801" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="43" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing="-.8">English Dishes</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="791" y="3642" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="43" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing="-.8">Chow Mein Dishes</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="789.5" y="3560" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="43" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing="-.8">Fried Soft Noodles</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="738.5" y="3479" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="43" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing="-.8">Mixed Vegetable Dishes</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="749" y="3318" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="43" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing="-.8">Sweet and Sour Dishes</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="770" y="3398" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="43" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing="-.8">Egg Foo Yung Dishes</tspan>
+  </text>
+  <rect width="214" height="34" x="19" y="19" fill="url(#pattern-5)"/>
+  <g transform="translate(1847.25 22)">
+    <path fill="none" stroke="rgb(14,63,242)" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2" d="M0 1.5h38.5"/>
+    <path fill="none" stroke="rgb(14,63,242)" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2" d="M0 9h38.5"/>
+    <path fill="none" stroke="rgb(14,63,242)" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2" d="M0 16.5h38.5"/>
+  </g>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="700" y="578" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing=".2">Roast Duck with Cashew Nuts</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="700" y="542" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing=".1">House Special Roast Duck</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="1168" y="542" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing=".1">£6.70</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="1168" y="578" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing=".1">£6.70</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="1168" y="796" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing=".1">£6.50</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="1168" y="833" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing=".1">£6.50</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="1168" y="869" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing=".1">£6.50</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="1168" y="905" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing=".1">£6.50</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="1168" y="941" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing=".1">£6.50</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="1168" y="978" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing=".1">£6.50</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="1168" y="1014" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing=".1">£6.50</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="1168" y="1050" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing=".1">£6.50</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="1168" y="1087" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing=".1">£6.50</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="1169" y="1123" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing=".1">£6.50</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="1169" y="1159" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing=".1">£6.50</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="1169" y="1195" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing=".1">£6.50</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="1168" y="760" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing=".1">£6.50</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="1168" y="724" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing=".1">£6.50</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="1168" y="688" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing=".1">£6.50</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="1168" y="650" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing=".1">£6.50</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="1168" y="615" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing=".1">£6.50</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="700" y="650" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing=".4">Roast Duck with Chinese Mushrooms</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="697" y="686" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing=".5">Roast Duck with Plum Sauce</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="697" y="724" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing=".3">Roast Duck with Pineapple and Sweet Ginger</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="697" y="760" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing=".3">Roast Duck with Cantonese Sauce</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="697" y="796" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing=".4">Roast Duck with Peking Sauce</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="697" y="1014" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing=".4">Roast Duck in Hot & Spicy Sauce</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="697" y="1087" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing=".5">Roast Duck in Oyster Sauce</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="697" y="1050" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing=".4">Roast Duck in Hot & Sour Sauce</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="697" y="978" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing=".4">Roast Duck with Kung Bo Sauce</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="697" y="941" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing=".3">Roast Duck with Spicy Chilli & Garlic Sauce</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="696" y="1122" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing=".4">Roast Duck in Ginger & Spring Onions Sauce</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="697" y="1159" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="700" style="white-space:pre;text-transform:none">Roast Duck in Onions Sauce</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="697" y="1195" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="700" style="white-space:pre;text-transform:none">Roast Duck Curry</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="697" y="903" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing=".4">Roast Duck with Szechuan Sauce</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="697" y="833" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing=".4">Roast Duck with Satay Sauce</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="697" y="869" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing=".4">Roast Duck with Black Bean Sauce</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="700" y="615" fill="rgb(48,48,48)" font-family="Source Sans Pro" font-size="20" font-weight="700" style="white-space:pre;text-transform:none" letter-spacing=".2">Roast Duck with Leeks and Black Bean Sauce</tspan>
+  </text>
+</svg>

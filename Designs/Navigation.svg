@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1018" viewBox="0 0 1920 1018">
+  <defs>
+    <path id="path-5" fill-rule="evenodd" d="M1855 20l28 29"/>
+    <filter id="filter-6" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="2" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation="2.41"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.5 0"/>
+    </filter>
+    <path id="path-7" fill-rule="evenodd" d="M1883.5 20L1856 48"/>
+    <filter id="filter-8" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="2" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation="2.41"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.5 0"/>
+    </filter>
+  </defs>
+  <g transform="translate(1847.25 22)">
+    <path fill="none" stroke="rgb(14,63,242)" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2" d="M0 1.5h38.5"/>
+    <path fill="none" stroke="rgb(14,63,242)" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2" d="M0 9h38.5"/>
+    <path fill="none" stroke="rgb(14,63,242)" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2" d="M0 16.5h38.5"/>
+  </g>
+  <rect width="1920" height="1089" x="0" y="0" fill="rgb(128,0,32)"/>
+  <g>
+    <g>
+      <use fill="black" fill-opacity="0" stroke="black" stroke-width="2.5" filter="url(#filter-6)" xlink:href="#path-5"/>
+      <use fill-opacity="0" stroke="rgb(255,203,92)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" xlink:href="#path-5"/>
+    </g>
+    <g>
+      <use fill="black" fill-opacity="0" stroke="black" stroke-width="2.5" filter="url(#filter-8)" xlink:href="#path-7"/>
+      <use fill-opacity="0" stroke="rgb(255,203,92)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" xlink:href="#path-7"/>
+    </g>
+  </g>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="907" y="128" fill="rgb(255,203,92)" font-family="Source Sans Pro" font-size="42" font-weight="700" style="white-space:pre;text-transform:none">Home</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="872" y="270" fill="rgb(255,203,92)" font-family="Source Sans Pro" font-size="42" font-weight="700" style="white-space:pre;text-transform:none">Our Menu</tspan>
+  </text>
+  <text font-size="0" style="white-space:pre">
+    <tspan x="860" y="414" fill="rgb(255,203,92)" font-family="Source Sans Pro" font-size="42" font-weight="700" style="white-space:pre;text-transform:none">Contact Us</tspan>
+  </text>
+</svg>
